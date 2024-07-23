@@ -1,7 +1,7 @@
-package setB
+package samples_
 
 import org.apache.spark.SparkContext
-import setA.repeated_words.rdd1
+import samples.repeated_words.rdd1
 
 object setB_3 extends App {
 

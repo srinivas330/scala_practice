@@ -1,4 +1,4 @@
-package setB
+package samples_
 
 import org.apache.spark.SparkContext
 

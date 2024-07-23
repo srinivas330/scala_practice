@@ -12,4 +12,7 @@ object ip2 extends App{
   //rdd5.collect.foreach(println)
   rdd5.take(1).foreach(println)
   scala.io.StdIn.readLine()
+
+
+
 }
